@@ -1,0 +1,200 @@
+{
+  "personas": [
+    {
+      "edad": 25,
+      "genero": "masculino"
+    },
+    {
+      "edad": 30,
+      "genero": "femenino"
+    },
+    {
+      "edad": 22,
+      "genero": "masculino"
+    },
+    {
+      "edad": 28,
+      "genero": "femenino"
+    },
+    {
+      "edad": 35,
+      "genero": "masculino"
+    },
+    {
+      "edad": 27,
+      "genero": "femenino"
+    },
+    {
+      "edad": 40,
+      "genero": "masculino"
+    },
+    {
+      "edad": 32,
+      "genero": "femenino"
+    },
+    {
+      "edad": 29,
+      "genero": "masculino"
+    },
+    {
+      "edad": 26,
+      "genero": "femenino"
+    },
+    {
+      "edad": 38,
+      "genero": "masculino"
+    },
+    {
+      "edad": 31,
+      "genero": "femenino"
+    },
+    {
+      "edad": 33,
+      "genero": "masculino"
+    },
+    {
+      "edad": 24,
+      "genero": "femenino"
+    },
+    {
+      "edad": 36,
+      "genero": "masculino"
+    },
+    {
+      "edad": 34,
+      "genero": "femenino"
+    },
+    {
+      "edad": 39,
+      "genero": "masculino"
+    },
+    {
+      "edad": 23,
+      "genero": "femenino"
+    },
+    {
+      "edad": 37,
+      "genero": "masculino"
+    },
+    {
+      "edad": 41,
+      "genero": "femenino"
+    },
+    {
+      "edad": 43,
+      "genero": "masculino"
+    },
+    {
+      "edad": 45,
+      "genero": "femenino"
+    },
+    {
+      "edad": 42,
+      "genero": "masculino"
+    },
+    {
+      "edad": 44,
+      "genero": "femenino"
+    },
+    {
+      "edad": 47,
+      "genero": "masculino"
+    },
+    {
+      "edad": 46,
+      "genero": "femenino"
+    },
+    {
+      "edad": 49,
+      "genero": "masculino"
+    },
+    {
+      "edad": 48,
+      "genero": "femenino"
+    },
+    {
+      "edad": 50,
+      "genero": "masculino"
+    },
+    {
+      "edad": 52,
+      "genero": "femenino"
+    },
+    {
+      "edad": 51,
+      "genero": "masculino"
+    },
+    {
+      "edad": 54,
+      "genero": "femenino"
+    },
+    {
+      "edad": 53,
+      "genero": "masculino"
+    },
+    {
+      "edad": 56,
+      "genero": "femenino"
+    },
+    {
+      "edad": 55,
+      "genero": "masculino"
+    },
+    {
+      "edad": 58,
+      "genero": "femenino"
+    },
+    {
+      "edad": 57,
+      "genero": "masculino"
+    },
+    {
+      "edad": 59,
+      "genero": "femenino"
+    },
+    {
+      "edad": 60,
+      "genero": "masculino"
+    },
+    {
+      "edad": 62,
+      "genero": "femenino"
+    },
+    {
+      "edad": 61,
+      "genero": "masculino"
+    },
+    {
+      "edad": 64,
+      "genero": "femenino"
+    },
+    {
+      "edad": 63,
+      "genero": "masculino"
+    },
+    {
+      "edad": 66,
+      "genero": "femenino"
+    },
+    {
+      "edad": 65,
+      "genero": "masculino"
+    },
+    {
+      "edad": 68,
+      "genero": "femenino"
+    },
+    {
+      "edad": 67,
+      "genero": "masculino"
+    },
+    {
+      "edad": 69,
+      "genero": "femenino"
+    },
+    {
+      "edad": 70,
+      "genero": "masculino"
+    }
+  ]
+}
